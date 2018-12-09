@@ -1,5 +1,4 @@
 This is first file for git demo
-s,jkjnhksd
-jkjnbkjnk
-asbjbjkds
-kjkhnd
+Cloning the file at local
+adding some text
+made some changes
